@@ -19,8 +19,8 @@
   .webui queries redis, and computes and exposes “hashing speed” in your browser
 
 
--rng = web service generating random bytes
--hasher = web service computing hash of POSTed data
--worker = background process using rng and hasher
--webui = web interface to watch progress
+- rng = web service generating random bytes
+- hasher = web service computing hash of POSTed data
+- worker = background process using rng and hasher
+- webui = web interface to watch progress
 
