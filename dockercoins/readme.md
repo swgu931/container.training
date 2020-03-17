@@ -24,3 +24,14 @@
 - worker = background process using rng and hasher
 - webui = web interface to watch progress
 
+## Getting the application source code
+
+- git clone https://github.com/dockersamples/dockercoins
+- cd ~/dockercoins
+- Use Compose to build and run all containers:
+  
+  $docker-compose up
+  
+  : Compose tells Docker to build all container images (pulling the corresponding base images), then starts all containers, and displays aggregated logs.
+
+
