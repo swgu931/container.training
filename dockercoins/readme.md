@@ -10,7 +10,7 @@
 
   .worker asks to rng to generate a few random bytes
 
-  .orker feeds these bytes into hasher
+  .worker feeds these bytes into hasher
   
   .and repeat forever!
   
