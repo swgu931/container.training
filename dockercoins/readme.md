@@ -1,6 +1,7 @@
 # Docker Coins
 
  : https://training.play-with-kubernetes.com/kubernetes-workshop/
+ : https://github.com/dockersamples/dockercoins
 
 
 ## What’s this application?
